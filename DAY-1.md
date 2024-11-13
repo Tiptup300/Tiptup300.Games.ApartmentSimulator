@@ -1,4 +1,8 @@
 # Tiptup300.Games.ApartmentSimulator
+![image](https://github.com/user-attachments/assets/a883b870-630b-43c8-b670-b9dc54e05c3e)
+
+![Uploading image.png…]()
+
 
 ![image](https://github.com/user-attachments/assets/678c0f6f-0eed-4e23-a451-e1b57e6ed8ce)
 
