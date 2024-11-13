@@ -1,10 +1,14 @@
 # Tiptup300.Games.ApartmentSimulator
 ![image](https://github.com/user-attachments/assets/a883b870-630b-43c8-b670-b9dc54e05c3e)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3430d1c3-606a-4b5b-b213-43617f927f17)
+
+![image](https://github.com/user-attachments/assets/d8cc8d81-5273-45ad-9966-35e0352d7ef6)
 
 
 ![image](https://github.com/user-attachments/assets/678c0f6f-0eed-4e23-a451-e1b57e6ed8ce)
+
+![image](https://github.com/user-attachments/assets/8e950ae3-a852-4fd9-90a4-420cce2e7f33)
 
 
 The main character `They` is doing something in a small dark apartment. 
