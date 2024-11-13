@@ -1,15 +1,4 @@
 # Tiptup300.Games.ApartmentSimulator
-![image](https://github.com/user-attachments/assets/a883b870-630b-43c8-b670-b9dc54e05c3e)
-
-![image](https://github.com/user-attachments/assets/3430d1c3-606a-4b5b-b213-43617f927f17)
-
-![image](https://github.com/user-attachments/assets/d8cc8d81-5273-45ad-9966-35e0352d7ef6)
-
-
-![image](https://github.com/user-attachments/assets/678c0f6f-0eed-4e23-a451-e1b57e6ed8ce)
-
-![image](https://github.com/user-attachments/assets/8e950ae3-a852-4fd9-90a4-420cce2e7f33)
-
 
 The main character `They` is doing something in a small dark apartment. 
 
@@ -51,5 +40,21 @@ Options:
 * Looking at the toilet. I'm not sure why this yellow appears on the walls, it's like somebodies secretly smoking in here every day. I guess I'll just keep cleaning it, hopefully it'll go away."
 * Looking at the refrigerator: "I'm not hungry. Tacebell sounds nice though. I wonder what they might have for three dollars."
 * Looking at the sink: "All clean. I only have a few dishes, I'm glad I can keep that together at least."
+* Looking at the rear radiator next to the bathroom where theres a window almost visible: "Getting up to see through the window makes me feel like I'm in a different world."
 
+## Concept Images
 
+![image](https://github.com/user-attachments/assets/a883b870-630b-43c8-b670-b9dc54e05c3e)
+ * Artwork on the wall
+
+![image](https://github.com/user-attachments/assets/3430d1c3-606a-4b5b-b213-43617f927f17)
+ * Small window in the back of the apartment, it's very high up and you can't see through it.
+
+![image](https://github.com/user-attachments/assets/d8cc8d81-5273-45ad-9966-35e0352d7ef6)
+ * They's bedroom and small bed.
+
+![image](https://github.com/user-attachments/assets/678c0f6f-0eed-4e23-a451-e1b57e6ed8ce)
+ * 3d model of They
+
+![image](https://github.com/user-attachments/assets/8e950ae3-a852-4fd9-90a4-420cce2e7f33)
+* shot from where the liquid flavorings are located showing the kitchen and the couch in the "living room".
