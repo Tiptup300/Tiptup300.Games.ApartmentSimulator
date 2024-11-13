@@ -1,5 +1,7 @@
 # Tiptup300.Games.ApartmentSimulator
 
+## PROLOGUE
+
 The main character `They` is doing something in a small dark apartment. 
 
 THe beginning scene shows different cuts showing They's hands and arms using brightly colored bottles, measuring, and putting drops of the bottles liquid into a glass container. It plays a midi score -> Mario 64 soundfont rendition of Smashing Pumpkin's "Spaceboy". 
